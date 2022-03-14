@@ -28,7 +28,7 @@ public class variabledemo1 {
 		 * byte - 8 bits
 		 * short - 16 bits
 		 * int - 32 bits
-		 * long - 64biy
+		 * long - 64bits
 		 */
 		//RANGE
 		weight=127;//maximum value
